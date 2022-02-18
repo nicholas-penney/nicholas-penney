@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicholas-penney
+- 👀 I’m interested in Full Stack Web Development and Software
+- 🌱 I’m currently learning React.js, Express, PHP, SQL, MongoDB
+- 💞️ I’m looking to collaborate on interesting projects that make a difference
+- 📫 How to reach me: penney.software@gmail.com
